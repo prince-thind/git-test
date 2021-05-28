@@ -1,1 +1,5 @@
-Hey there! this is Prince's first git push!
+Hello there, welcome to my very first github repo.
+This is where it all started.
+
+This is the place where I still push stuff.
+Have a good time exploring this Github.
