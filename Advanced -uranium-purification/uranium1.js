@@ -1,0 +1,1 @@
+console.log("uranium1+neuron=>energy");
