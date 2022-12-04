@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "a repo for testing git features",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages-versioned": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "gh-pages-versioned"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-thind/git-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-thind/git-test/issues"
+  },
+  "homepage": "https://github.com/prince-thind/git-test#readme"
+}
